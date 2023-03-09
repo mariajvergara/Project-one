@@ -42,6 +42,7 @@ body {
 .button-audio:hover {
     background-color: #ffffff40;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .main-container {
